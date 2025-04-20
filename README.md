@@ -1,4 +1,4 @@
-## Hi, I'm Christoph 👋
+# Hi, I'm Christoph 👋
 
 I'm a high school student passionate about computer science and software development.
 
