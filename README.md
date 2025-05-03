@@ -6,6 +6,7 @@ I'm a high school student passionate about computer science and software develop
 
 ## My Projects:
 - Visualization of the BubbleSort algorithm ☕🫧
+- Homepage for a sports club 
 
 <!--
 **ChristophW610/ChristophW610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
