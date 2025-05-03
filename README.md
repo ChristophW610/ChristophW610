@@ -6,7 +6,9 @@ I'm a high school student passionate about computer science and software develop
 
 ## My Projects:
 - Visualization of the BubbleSort algorithm ☕🫧
-- Homepage for a sports club 
+- Homepage for a sports club
+- Unity 3D table tennis game
+- Unity 2D endless runner game
 
 <!--
 **ChristophW610/ChristophW610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
