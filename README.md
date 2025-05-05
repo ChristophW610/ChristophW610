@@ -2,8 +2,6 @@
 
 I'm a high school student passionate about computer science and software development.
 
-🚀 Goal: Study computer science and become a full-stack developer
-
 ## My Projects:
 - Visualization of the BubbleSort algorithm ☕🫧
 - Multiplayer chess game ♟
