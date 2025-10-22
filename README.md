@@ -1,8 +1,9 @@
-# Hi, I'm Christoph 👋
+# Hi, I'm Christoph
 
-I'm a high school student passionate about computer science and software development.
+- Computer Science student at KIT Karlsruhe
+- I’m particularly interested in software development, sustainable IT, and using technology to create meaningful, positive impact.
 
-## My Projects:
+## Uploaded Projects:
 - Visualization of the BubbleSort algorithm ☕🫧
 - Multiplayer chess game ♟
 - Homepage for a sports club 💻
